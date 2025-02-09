@@ -3,7 +3,7 @@
  */
 const resume = {
     firstName: 'Raphaël',
-    lastName: 'Moscatelli',
+    lastName: 'Mos',
     jobTitle: "Bachelor's degree graduate looking for work-study, fixed-term contract or permanent contract",
     city: 'Paris',
     country: 'France',
