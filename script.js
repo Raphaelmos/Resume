@@ -8,7 +8,7 @@ const resume = {
     city: 'Paris',
     country: 'France',
     phone: '+33652972252',
-    email: 'raph.jmf@gmail.com',
+    email: 'raphael.moscatelli@gmail.com',
     education: [
       {
         school: 'Paris 8 Université',
