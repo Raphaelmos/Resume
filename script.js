@@ -18,7 +18,7 @@ const resume = {
       },
        {
         school: 'Lycee Adolphe Chérioux France',
-        degree: 'Lycee / High School Diploma"',
+        degree: 'Lycee / High School Diploma',
         graduationDate: '2021',
         description: "Baccalaureate in Digital Specialties and Computer Science and Mathematics"
       }
