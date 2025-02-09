@@ -34,7 +34,7 @@ const resume = {
       }
       // {
       //   label : 'Portafolio',
-      //   link : 'https://cv-portafolioakc.netlify.app'
+      //   link : ''
       // }
     ],
     skills: [   
