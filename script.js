@@ -4,7 +4,7 @@
 const resume = {
     firstName: 'Raphaël',
     lastName: 'Mos',
-    jobTitle: "Bachelor's degree graduate looking for work-study, fixed-term contract or permanent contract",
+    jobTitle: "Licence's degree graduate looking for work-study, fixed-term contract or permanent contract",
     city: 'Paris',
     country: 'France',
     phone: '+33652972252',
@@ -14,7 +14,7 @@ const resume = {
         school: 'Paris 8 Université',
         degree: 'Degree',
         graduationDate: '2024',
-        description: 'Bachelor in Computer Science - Honorable Mention'
+        description: 'Licence in Computer Science - Honorable Mention'
       },
        {
         school: 'Lycee Adolphe Chérioux France',
