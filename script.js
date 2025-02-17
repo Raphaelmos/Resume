@@ -58,8 +58,8 @@ const resume = {
     employmentHistory: [
         /* 
          {
-        jobTitle: 'Developpeur',
-        startDate: 'Octobre 2023',
+        jobTitle: 'Developper',
+        startDate: 'October 2023',
         employer: 'Freelance',
         achievements: [
         ]
