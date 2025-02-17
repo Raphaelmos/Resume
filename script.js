@@ -1,6 +1,8 @@
 /**
  * Resume/CV template created with Bootstrap 5 by @vmoratog and @jdnichollsc
  */
+
+/* Thinking of adding freelance developper in my resume */
 const resume = {
     firstName: 'Raphaël',
     lastName: 'Mos',
