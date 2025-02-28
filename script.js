@@ -56,7 +56,7 @@ const resume = {
     languages: ['Francais: Native','English: C1'],
     professionalSummary: `Young professional eager to acquire new skills and grow professionally within your team. My previous experiences have allowed me to refine my communication and idea expression. Proactive, a good communicator, and demonstrating teamwork spirit, I strive to achieve my goals.`,
     employmentHistory: [
-        /* 
+        
          {
         jobTitle: 'Developper',
         startDate: 'October 2023',
@@ -65,7 +65,7 @@ const resume = {
         ]
       },
         
-        */
+        
       {
         jobTitle: 'Versatile Employee',
         startDate: 'July 2023',
