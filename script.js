@@ -62,9 +62,14 @@ const resume = {
         startDate: 'October 2023',
         employer: 'Freelance',
         achievements: [
+            "Realization of various projects requested by customers",
+             "Help with existing Web and Cybersecurity projects",
+             "Improvement of pentesting tools",
             /* 
             "Handled multiple projects in Python",
+            
             */
+            
         ]
       },
         
