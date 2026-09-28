@@ -5,7 +5,7 @@
 /* Thinking of adding freelance developper in my resume */
 const resume = {
     firstName: 'Raphaël',
-    lastName: 'Mos',
+    lastName: 'Moscatelli',
     jobTitle: "Licence's degree graduate looking for work-study, fixed-term contract or permanent contract",
     city: 'Paris',
     country: 'France',
