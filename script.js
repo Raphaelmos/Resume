@@ -168,9 +168,7 @@ const resume = {
     data: formatResume(resume)
   });
   
-  /**
-   * Wait for animatable-component to be loaded (Only for VanillaJS)
-   **/
+
   function animatableLoaded() {
     document.querySelector('body').classList.remove('d-none');
   }
